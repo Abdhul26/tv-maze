@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+  align-items: center;
+}
+body {
+  background-image: url("https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg");
+  background-size: cover;
+}
+.search-bar {
+  padding: 20px;
+  margin: auto;
+  color: aqua;
+}
+.submit {
+  padding: 20px;
+
+  color: black;
+  background-color: brown;
+  border-radius: 90%;
+}
+.text {
+  color: black;
+
+  flex: 10px;
+  background-color: blueviolet;
+  display: inline;
+}
+.para {
+  background-color: bisque;
+  display: inline;
+}
